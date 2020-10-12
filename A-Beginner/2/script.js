@@ -1,0 +1,1 @@
+let ord = "tråd"
